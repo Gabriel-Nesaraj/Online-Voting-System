@@ -6,7 +6,8 @@ Click on star :star: and fork this repository to your system.
 
 # 2. Register a Voter
 
-![2](https://user-images.githubusercontent.com/25504941/91967325-b6d75580-ed30-11ea-9a23-c305decb352c.PNG)
+
+![Registration Page](https://github.com/user-attachments/assets/b26c892b-b7e8-40d8-be27-d527c9a924bc)
 
 # 3. Detect Multiple persons from photo
 
