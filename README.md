@@ -15,3 +15,7 @@ Click on star :star: and fork this repository to your system.
 # 4. Voting Screen
 
 ![Voting Screen](https://github.com/user-attachments/assets/75aa2eaa-31e6-48ea-84fc-24036a744a80)
+
+# 5. Election Results
+
+![Election Results](https://github.com/user-attachments/assets/77adfcd6-73ef-41ce-bc8a-360476fd8003)
