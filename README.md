@@ -2,7 +2,7 @@ Click on star :star: and fork this repository to your system.
 
 # 1. Start page:
 
-![1](https://user-images.githubusercontent.com/25504941/91967318-b3dc6500-ed30-11ea-9131-d5c7b0adc05f.PNG)
+![Home Page](https://github.com/user-attachments/assets/7c4060e2-812c-4ab5-9556-43de66cdde39)
 
 # 2. Register a Voter
 
