@@ -11,3 +11,7 @@ Click on star :star: and fork this repository to your system.
 # 3. Detect Voter from video surviellance
 
 ![Surveillance Page](https://github.com/user-attachments/assets/ca649a00-f511-468f-8cd2-c4bb5ffcd9d1)
+
+# 4. Voting Screen
+
+![Voting Screen](https://github.com/user-attachments/assets/75aa2eaa-31e6-48ea-84fc-24036a744a80)
