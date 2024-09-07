@@ -8,18 +8,6 @@ Click on star :star: and fork this repository to your system.
 
 ![Registration Page](https://github.com/user-attachments/assets/aac9abaf-30dd-43ef-9770-c6d4d643b5e0)
 
-# 3. Detect Multiple persons from photo
+# 3. Detect Voter from video surviellance
 
-![3](https://user-images.githubusercontent.com/25504941/91967341-b9d24600-ed30-11ea-96bc-a5f8ccfb2497.PNG)
-
-# 4. Details of Voter
-
-![4](https://user-images.githubusercontent.com/25504941/91967352-bc34a000-ed30-11ea-8b0b-cb11d062af91.PNG)
-
-# 5. Detect Voter from photo
-
-![6](https://user-images.githubusercontent.com/25504941/91967357-bccd3680-ed30-11ea-9801-5a211009f7a7.PNG)
-
-# 6. Detect Voter from video surviellance
-
-![9](https://user-images.githubusercontent.com/25504941/91967366-be96fa00-ed30-11ea-9881-173bf883bbd4.png)
+![Surveillance Page](https://github.com/user-attachments/assets/ca649a00-f511-468f-8cd2-c4bb5ffcd9d1)
